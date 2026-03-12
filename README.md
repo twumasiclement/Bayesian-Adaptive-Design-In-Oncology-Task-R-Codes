@@ -15,7 +15,7 @@ prostate cancer.
 desirable. You should formalise and justify the exact thresholds and decision
 boundaries.
 
-**Part 2: Bayesian Adaptive Phase II Design – Interim Analysis Reporting**
+# Part 2: Bayesian Adaptive Phase II Design – Interim Analysis Reporting
 
 **Objective:**
 
