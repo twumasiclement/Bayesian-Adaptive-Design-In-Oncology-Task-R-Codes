@@ -1,5 +1,5 @@
 # Bayesian-Adaptive-Design-In-Oncology-Task-R-Codes
-`BayesianAdaptiveDesign_MainRCodes_Twumasi.r` contains the R codes used to implement a simulation experiment and reporting exercise on Phase II Bayesian Adaptive Design for an oncology trial in prostate cancer. The observed data for Part 2 Interim analysis is attached as `ICR-CTSU Senior Statistician - Bayesian Adaptive Design Task - Simulation and Reporting Exercise - Data.csv`. The R codes are broadly organised in two parts in accordance with the task as follows:
+`BayesianAdaptiveDesign_MainRCodes_Twumasi.r` contains the R codes used to implement a simulation experiment and reporting exercise on Phase II Bayesian Adaptive Design for an oncology trial in prostate cancer. There is also a Jupyter Notebook HTML file of the same R codes, which contains all the results (see `BayesianAdaptiveDesign_MainRCodes_Twumasi.html`). The observed data for Part 2 Interim analysis is attached as `ICR-CTSU Senior Statistician - Bayesian Adaptive Design Task - Simulation and Reporting Exercise - Data.csv`. The R codes are broadly organised in two parts in accordance with the task as follows:
 
 # Part 1: Phase II Bayesian Adaptive Design – Simulation Task
 
