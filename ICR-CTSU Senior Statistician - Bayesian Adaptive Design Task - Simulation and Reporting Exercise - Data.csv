@@ -1,0 +1,54 @@
+﻿Patient_ID,Visit,Date,RECIST_Status,Percent_Change,Comments
+P-01,Baseline,10/07/2025,Target Lesions Identified,0,N/A
+P-01,3-Month,12/10/2025,PR,-42,Confirmed PR
+P-01,6-Month,10/01/2026,PR,-45,Maintained PR
+P-02,Baseline,22/07/2025,Target Lesions Identified,0,N/A
+P-02,3-Month,24/10/2025,SD,-5,Stable Disease
+P-02,6-Month,20/01/2026,PD,25,New Lesion
+P-03,Baseline,05/08/2025,Target Lesions Identified,0,N/A
+P-03,3-Month,NA,NE,NA,Off Study: Gr 4 Hepatotoxicity
+P-04,Baseline,18/08/2025,Target Lesions Identified,0,N/A
+P-04,3-Month,20/11/2025,SD,-12,Stable Disease
+P-04,6-Month,17/02/2026,SD,-15,Stable Disease
+P-05,Baseline,02/09/2025,Target Lesions Identified,0,N/A
+P-05,3-Month,05/12/2025,PR,-55,Partial Response
+P-05,6-Month,01/03/2026,CR,-100,Complete Response
+P-06,Baseline,15/09/2025,Target Lesions Identified,0,N/A
+P-06,3-Month,16/12/2025,PD,40,Early Clinical Progression
+P-07,Baseline,28/09/2025,Target Lesions Identified,0,N/A
+P-07,3-Month,05/01/2026,SD,-10,Stable Disease
+P-07,6-Month,02/03/2026,PR,-38,Late Confirmed PR
+P-08,Baseline,10/10/2025,Target Lesions Identified,0,N/A
+P-08,3-Month,NA,NE,NA,Off Study: Lost to Follow-up
+P-09,Baseline,25/10/2025,Target Lesions Identified,0,N/A
+P-09,3-Month,27/01/2026,PR,-35,Partial Response
+P-09,6-Month,28/02/2026,CR,-100,Confirmed CR
+P-10,Baseline,05/11/2025,Target Lesions Identified,0,N/A
+P-10,3-Month,06/02/2026,PD,22,Early Clinical Progression
+P-11,Baseline,18/11/2025,Target Lesions Identified,0,N/A
+P-11,3-Month,20/02/2026,SD,-8,Stable Disease
+P-11,6-Month,04/03/2026,PR,-32,Late Confirmed PR
+P-12,Baseline,01/12/2025,Target Lesions Identified,0,N/A
+P-12,3-Month,NA,NE,NA,Death: COVID-19 (Intercurrent)
+P-13,Baseline,10/12/2025,Target Lesions Identified,0,N/A
+P-13,3-Month,01/03/2026,PR,-35,Unconfirmed PR
+P-13,6-Month,NA,Pending,NA,Scan due June 2026
+P-14,Baseline,15/12/2025,Target Lesions Identified,0,N/A
+P-14,3-Month,03/03/2026,SD,-10,Stable Disease
+P-14,6-Month,NA,Pending,NA,Scan due June 2026
+P-15,Baseline,15/08/2025,Target Lesions Identified,0,N/A
+P-15,3-Month,15/11/2025,SD,5,Stable Disease
+P-15,6-Month,15/02/2026,PD,22,Progressive Disease
+P-16,Baseline,01/09/2025,Target Lesions Identified,0,N/A
+P-16,3-Month,01/12/2025,PR,-60,Partial Response
+P-16,6-Month,01/03/2026,CR,-100,Complete Response
+P-17,Baseline,20/12/2025,Target Lesions Identified,0,N/A
+P-17,3-Month,04/03/2026,SD,-5,Stable Disease
+P-17,6-Month,NA,Pending,NA,Scan due June 2026
+P-18,Baseline,22/12/2025,Target Lesions Identified,0,N/A
+P-18,3-Month,05/03/2026,PR,-31,Unconfirmed PR
+P-18,6-Month,NA,Pending,NA,Scan due June 2026
+P-19,Baseline,15/11/2025,Target Lesions Identified,0,N/A
+P-19,3-Month,15/02/2026,PD,28,Early Clinical Progression
+P-20,Baseline,20/11/2025,Target Lesions Identified,0,N/A
+P-20,3-Month,NA,NE,NA,Off Study: Withdrew Consent
